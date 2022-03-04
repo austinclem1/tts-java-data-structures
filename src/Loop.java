@@ -5,7 +5,7 @@ public class Loop {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        ArrayList<Integer> numbers = new ArrayList<Integer>();
+        ArrayList<Integer> numbers = new ArrayList<>();
 
         System.out.println("Please input 5 numbers");
         for (int i = 1; i <= 5; i++) {
