@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class SumArray {
    public static void main(String[] args) {
       int nums[] = {1, 3, 7, 2, -11, 12};
